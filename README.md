@@ -1,2 +1,2 @@
 # Background and Interests
-A brief bio
+I'm a graduate student at UC Santa Barbara focusing in Dynamical Systems, Control Theory, and Robotics. My interests include control theory, dynamical systems, machine learning, optimization, robotics, reading, writing, surfing, backpacking, and sailing. My current research focus is on applying machine learning techniques to robotic surveillance problems, which entail the use of one or more mobile robotic agents to navigate and monitor an environment with the aim of defending locations of interest against attacks by an adversary.
